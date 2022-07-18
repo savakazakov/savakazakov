@@ -11,7 +11,7 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/savakazakov/) is Your best bet.
                       However, You could drop me an [email](mailto:s.kazakov@lancaster.ac.uk) as well        savakazakov@gmail.com
 
-[![Build Status](https://travis-ci.org/sudodoki/copy-to-clipboard.svg?branch=master)](https://travis-ci.org/sudodoki/copy-to-clipboard)
+[![Copy](savakazakov@gmail.com)](mailto:s.kazakov@lancaster.ac.uk)
 
 
 <!---
