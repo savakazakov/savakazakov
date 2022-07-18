@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on anything that sounds interesting and everything that would prove useful later in my career :)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/savakazakov/) is Your best bet.
                       However, You could drop me an [email](mailto:s.kazakov@lancaster.ac.uk) as well
-		      savakazakov@gmail.com
+-		      savakazakov@gmail.com
 
 
 <!---
