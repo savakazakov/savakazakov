@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @savakazakov and I’m doing **Computer Science** at **Lancaster University**.
+- 👋 Hi, I’m @savakazakov and I’m a recent **Computer Science** graduate from the **University of Edinburgh**
 ***
-- 👀 I’m interested in - Competitive Programming, Embedded Systems, Mathematics, DevOps, Java and some Game Development!
+- 👀 I’m interested in 		- Quantum Computation, Machine Learning, Reinforcement Learning, Game Theory, Category Theory, Embedded Systems, Mathematics, Physics, and some Game Development!
 ***
-- 🌱 I’m currently learning - C++ so as to start solving task in CodeForces with C++.
-			                      - Shell Scripting which is required at my internship as Cloud DevOps Engineer at SAP.
-			                      - Unity because I was inspired by a university project on game development.
+- 🌱 I’m currently learning 	- Category Theory and Information Theory.
+				- Qiskit and Quantum Mechanics.
+			        - Home Labbing, Self-Hosting and Workflow Optimizations.
 ***
 - 💞️ I’m looking to collaborate on anything that sounds interesting and everything that would prove useful later in my career :)
 ***
